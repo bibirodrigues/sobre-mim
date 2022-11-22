@@ -1,0 +1,9 @@
+about-text{
+    width: 100%;
+    padding: 100px 0px;
+    background-color: #bbbbfc;
+}
+.about-text img{
+    height: auto;
+    width: 430px;
+}
